@@ -29,11 +29,11 @@ Create classes that correspond to your tables, e.g., a "contacts" table correspo
 
 #### Manipulate the data in Ruby
 
-Next, create a program that allows you to complete 5 meaningful tasks on your data.   
+Next, create a program that allows you to complete 5 meaningful tasks on your data.   Write the specs for these tasks first, then write code to make the specs work.
 
 Make sure your code is following OO principles.
 
-Submit your code in the `many_to_many`.rb file
+Submit your code in the `many_to_many`.rb file.
  
 
 <!-- ##Optimize Your Learning  -->
