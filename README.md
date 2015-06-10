@@ -9,7 +9,7 @@
 
  Build a database that represents a many to many relationship.
 
-Revisit the [Design Your Own Many-To-Many Schema]( https://github.com/sea-lions-2014/database-drill-many-to-many-schema-challenge)  and write a ruby program to create Objects to represent the relationships and create the database.
+Revisit the [Design Your Own Many-To-Many Schema](../../../database-drill-many-to-many-schema-challenge)  and write a ruby program to create Objects to represent the relationships and create the database.
 
 ##Releases
 
